@@ -173,3 +173,45 @@ body {
     padding-top: 7px;
 }
 
+.footer {
+    background-color: #000;
+    color: #fff;
+    padding: 15px 0;
+}
+
+.footer__iner {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footer__contact {
+    padding-right: 30px;
+}
+
+.footer__menu {
+    padding-right: 30px;
+}
+
+.footer__iner h2 {
+    max-height: 30px;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+.footer__iner .menu__title {
+    border-bottom: 2px solid #fff;
+}
+
+.footer__line {
+    border-bottom: 2px solid #fff;
+}
+
+.footer__iner li {
+    margin-bottom: 5px;
+}
+
+.btn__con {
+    padding: 5px 15px;
+    border: 2px solid #fff;
+    margin-bottom: 15px;
+}
